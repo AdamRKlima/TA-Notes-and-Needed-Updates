@@ -23,3 +23,13 @@
 ### 5. using the following, print out all combinations of cars and colors
 ### cars = ['Corvette', 'Camaro', 'Mustang', 'Viper', 'Charger']
 ### colors = ['Ruby Red', 'Python Green', 'Java Brown', 'C++ Yellow', 'Full Stack Rainbow','Savvy Coders Blue']
+
+
+
+### 6. What is the first step in using a module?
+
+
+
+### 7 Write a block of code that does the following
+### - Asks for the users year of birth
+### - Returns: "Your body really hurts" for users born before 1980,"Your back hurts" for users born between the start of 1980 and the end 0f 1989, "Your back is starting to hurt" for users born between the beginning of 1990 and the end of 1999, and "Take care of your body so it doesn't hurt" for all users born after the start of 2000
