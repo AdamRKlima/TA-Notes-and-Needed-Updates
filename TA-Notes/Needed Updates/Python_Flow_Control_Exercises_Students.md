@@ -33,4 +33,4 @@
 ### 7 Write a block of code that does the following
 ### - Asks for the users year of birth
 ### - Returns: "Your body really hurts" for users born before 1980,"Your back hurts" for users born between the start of 1980 and the end 0f 1989, "Your back is starting to hurt" for users born between the beginning of 1990 and the end of 1999, and "Take care of your body so it doesn't hurt" for all users born after the start of 2000
-### - Use try and except statement for this exercise, in order to ensure that all inputs are numeric
+# - Use try and except statement for this exercise, in order to ensure that all inputs are numeric
