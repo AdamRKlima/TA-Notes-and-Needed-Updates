@@ -7,7 +7,7 @@
 # <h1>Savvy Coder's DAP Pre-Work Course</h1>	
 
 > **<h2>Course Introduction</h2>**
-> Welcome to Savvy Coders DAP curriculum's pre-work course. These lessons are designed to give a basic understanding of the foundations needed to be successful in your cohort. If at anytime you find yourself troubled with a concept covered, please feel free to reach out to your Savvy Coders Representative. We look forward to helping you achieve your next step in
+> Welcome to Savvy Coders DAP curriculum's pre-work course. These lessons are designed to give a basic understanding of the foundations needed to be successful in your cohort. If at anytime you find yourself troubled with a concept covered, please feel free to reach out to your Savvy Coders Representative. We look forward to helping you achieve your next step in your career.
 
 <h1>Understanding Data Analytics</h1>
 
