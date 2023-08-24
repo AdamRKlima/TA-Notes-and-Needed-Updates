@@ -61,6 +61,7 @@
 >> - **<span style="color: green;">Program</span>:** Series of instructions that tells a computer how to solve a problem. They are written in a specific language such as Python, JavaScript, C#, etc.
 >
 > **<h2>How Computers Processes/Translates a Programs Code</h2>**
+>There are 2 general classes of coding languages:
 >> - **<span style="color: green;">Interpreted Language</span>:** Interpreters process programs a little bit at a time, reading lines and performing computations. An example of this is Python
 >> - **<span style="color: green;">Compiled Language</span>:** A Compiler reads the whole program at once, and then translates it completely into machine code, before starting to run the program. Examples are: Java, SQL, C++
 >
