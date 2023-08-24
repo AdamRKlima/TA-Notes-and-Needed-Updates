@@ -13,7 +13,7 @@
 
 ># <h2>What is a Data Analyst</h2>
 >>  A data analyst is an individual who examines various information to either learn from the data or to determine which decisions to make.
->![Data Scientists, Data Engineers, and Data Analysts](images/Data-Science-Engineer-Analyst.png)
+>![Data Scientists, Data Engineers, and Data Analysts](https://github.com/AdamRKlima/TA-Notes-and-Needed-Updates/blob/main/Images/Data-Science-Engineer-Analyst.png?raw=true)
 ># <h2>How is Data Analysis Helpful</h2>
 >> - Allows you to understand trends and patterns
 >> - Enables organizations to make well informed decisions
