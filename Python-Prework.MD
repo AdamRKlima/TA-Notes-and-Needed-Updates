@@ -52,3 +52,17 @@
 >> - Excellent written and verbal communication
 >> - Understanding various database technologies
 
+**<h1>Python Programming Language</h1>**
+> **<h2>Coding At a Glance</h2>** 
+>> To understand python, you must first realize how the operation of a program is carried out. To accomplish this, there are two languages that computers us to process the written code
+>> - Interpreted Language: Program is processed line by line, in order to make the desired computations. An example of this is Python
+>> - Compiled Language: reads through the code, then executes it. Examples are: Java, SQL, C++
+>> **<h2>Programs and Algorithms, What are They?</h2>**
+>> - **Algorithm:** Series of steps used to solve a given problem
+>> - **Program:** Series of instructions that tells a computer how to solve a problem. They are written in a specific language such as Python, JavaScript, C#, etc.
+>
+>**<h2>What is Python</h1>**
+>> Python is a high level, interpreted language. It's considered to be high-level because it is similar to a spoken language. **Python is:**
+>> - Quicker to write
+>> - Shorter
+>> - Easier to read
