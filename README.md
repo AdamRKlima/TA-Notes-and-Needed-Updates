@@ -5,7 +5,6 @@
 ### Homework for prework that takes place throughout the cohort
 ---
 # <h1>Savvy Coder's DAP Pre-Work Course</h1>	
-@@ -65,12 +66,30 @@
 >> - **<span style="color: green;">Interpreted Language</span>:** Interpreters process programs a little bit at a time, reading lines and performing computations. An example of this is Python
 >> - **<span style="color: green;">Compiled Language</span>:** A Compiler reads the whole program at once, and then translates it completely into machine code, before starting to run the program. Examples are: Java, SQL, C++
 >
