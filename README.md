@@ -20,7 +20,6 @@
 >
 >**<h2>Python</h1>**
 >**<h2>What is Python?</h2>**
->> Python is a high level, interpreted language. It's considered to be high-level because it is similar to a spoken language. **Python is:**
 >> Python is a high level, interpreted language. It's considered to be high-level because it is similar to a spoken language. ****<span style="color: green;">Python</span>** is:**
 >> - Quicker to write
 >> - Shorter
@@ -28,7 +27,7 @@
 >> - Easier to read
 >> - Prone to have fewer mistakes
 >
->**<h2>How Do You Code Python?</h2>**
+>**<h2>How Do You Code in Python?</h2>**
 >>Python is typically written by using either:
 >> - **<span style="color: green;">Integrated Development Environment</span>** or **<span style="color: green;">IDE</span>**: We will be using the VS Code IDE throughout this cohort
 >> - **<span style="color: green;">Command-line Interpreter</span>** or **<span style="color: green;">CLI Interpreter</span>**: This is a built-in option that comes with Python. It allows the programmer to run Python commands and execute Python files.
